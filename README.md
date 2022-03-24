@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rifki Wahyudi
+- 👋 Hi, I’m Rifqi Wahyudi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Web Dev
